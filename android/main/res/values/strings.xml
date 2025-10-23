@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CarID</string>
+
+    <!-- Mane page strings -->
+    <string name="text_main_page">Главный экран</string>
+    <string name="text_default_greeting">Добро пожаловать!</string>
+    <string name="text_recent_events">Последние события</string>
+    <string name="button_text_add_guest">Добавить гостя</string>
+    <string name="button_text_my_cars">Мои машины</string>
+
+    <!-- AddGuest page strings -->
+    <string name="text_add_guest_page">Гостевой доступ</string>
+    <string name="text_add_guest">Добавить гостя</string>
+    <string name="edit_text_hint_car_number">Номер машины</string>
+    <string name="edit_text_hint_datetime">Дата и время</string>
+
+    <!-- MyCars page strings -->
+    <string name="text_my_cars_page">Мои автомобили</string>
+
+    <!-- Profile page strings -->
+    <string name="text_profile_page">Профиль</string>
+
+    <!-- Sizes -->
+</resources>
